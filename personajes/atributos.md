@@ -2,7 +2,7 @@
 title: Atributos
 description: 
 published: true
-date: 2021-08-01T23:45:21.032Z
+date: 2021-08-01T23:49:43.306Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T16:53:39.128Z
